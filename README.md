@@ -34,7 +34,7 @@
 ## 📂 Project Structure
 
 ```
-flavor-explorer/
+flavor_explorer/
 ├── public/
 │   ├── style/
 │   │   └── style.css
@@ -55,8 +55,8 @@ flavor-explorer/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rahulkumarnaik/Flavor-Explorer
-   cd flavor-explorer
+   git clone https://github.com/rahulkumarnaik/Flavor_Explorer
+   cd flavor_explorer
    ```
 
 2. **Install dependencies**
