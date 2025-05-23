@@ -33,23 +33,21 @@
 
 ## 📂 Project Structure
 
+```
 flavor-explorer/
 ├── public/
-│ ├── style/
-│ │ └── style.css
-│ └── script.js
+│   ├── style/
+│   │   └── style.css
+│   └── script.js
 ├── views/
-│ ├── index.ejs
-│ └── partials/
-│ ├── header.ejs
-│ └── footer.ejs
+│   ├── index.ejs
+│   └── partials/
+│       ├── header.ejs
+│       └── footer.ejs
 ├── server.js
 ├── package.json
 └── .gitignore
-
-yaml
-Copy
-Edit
+```
 
 ---
 
@@ -59,40 +57,45 @@ Edit
    ```bash
    git clone https://github.com/rahulkumarnaik/Flavor-Explorer
    cd flavor-explorer
-Install dependencies
+   ```
 
-bash
-Copy
-Edit
-npm install
-Start the server
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-bash
-Copy
-Edit
-node server.js
-Visit in your browser
+3. **Start the server**
+   ```bash
+   node server.js
+   ```
 
-arduino
-Copy
-Edit
-http://localhost:3000
-⚙️ Environment
+4. **Visit in your browser**  
+   Open [http://localhost:3000](http://localhost:3000)
+
+---
+
+## ⚙️ Environment
+
 No API key is required. The project uses public endpoints from TheMealDB and TheCocktailDB.
 
-📌 Future Enhancements
-Add search functionality for specific meals or drinks
+---
 
-Enable users to save favorites to local storage
+## 📌 Future Enhancements
 
-Add filters like cuisine type or alcohol preference
+- Add search functionality for specific meals or drinks
+- Enable users to save favorites to local storage
+- Add filters like cuisine type or alcohol preference
 
-📄 License
+---
+
+## 📄 License
+
 This project is licensed under the MIT License.
 
-🙌 Acknowledgments
-TheMealDB API
+---
 
-TheCocktailDB API
+## 🙌 Acknowledgments
 
-Bootstrap
+- [TheMealDB API](https://www.themealdb.com/)
+- [TheCocktailDB API](https://www.thecocktaildb.com/)
+- [Bootstrap](https://getbootstrap.com/)
