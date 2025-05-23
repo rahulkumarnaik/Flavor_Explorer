@@ -16,7 +16,7 @@
 
 ## 📸 Preview
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](public/assets/screenshot.png)
 
 ---
 
