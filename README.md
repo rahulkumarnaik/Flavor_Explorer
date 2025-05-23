@@ -44,7 +44,7 @@ flavor_explorer/
 │   └── partials/
 │       ├── header.ejs
 │       └── footer.ejs
-├── server.js
+├── index.js
 ├── package.json
 └── .gitignore
 ```
@@ -66,7 +66,7 @@ flavor_explorer/
 
 3. **Start the server**
    ```bash
-   node server.js
+   node index.js
    ```
 
 4. **Visit in your browser**  
